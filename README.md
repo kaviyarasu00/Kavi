@@ -1,2 +1,0 @@
-# Kavi
-C assignment 
